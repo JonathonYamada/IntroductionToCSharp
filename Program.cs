@@ -58,7 +58,7 @@ namespace ConsoleApplication4
                     {
                         Console.WriteLine("The year {0} is not a leap year", year);
                     }
-                    Console.ReadLine();
+                    //Console.ReadLine();
                     continueIteration = false;
                 }
                 else
